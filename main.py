@@ -17,7 +17,6 @@ OWM_Endpoint = "https://api.openweathermap.org/data/2.5/onecall"
 api_key = os.environ.get("OWS_API_KEY")
 
 
-#https://api.openweathermap.org/data/2.5/weather?zip=20912,us&appid=5d26ff3e273d498e40ca139457ea48e1
 weather_params ={
     "lon": -77.002708,
     "lat": 38.981171,
